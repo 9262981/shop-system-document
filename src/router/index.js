@@ -7,8 +7,7 @@ import Contact from '@/components/shop/contact.vue'
 import ImplementationProgress from '@/components/shop/ImplementationProgress.vue'
 
 //项目实施进度查询
-import TreeDocument from '@/components/shop/treedocument.vue'
-import TreeDocumentS from '@/components/shop/treedocuments.vue'
+
 import SourceChoose from '@/components/shop/sourcechoose.vue'
 import SourceChooseS from '@/components/shop/sourcechooses.vue'
 import Domainname from '@/components/shop/domainname.vue'
@@ -19,6 +18,8 @@ import Productfunction from '@/components/shop/productfunction.vue'
 import Productfunctions from '@/components/shop/productfunctions.vue'
 import Deploy from '@/components/shop/deploy.vue'
 import Deploys from '@/components/shop/deploys.vue'
+import TreeDocument from '@/components/shop/treedocument.vue'
+import TreeDocumentS from '@/components/shop/treedocuments.vue'
 import Ui from '@/components/shop/ui.vue'
 import Uis from '@/components/shop/uis.vue'
 

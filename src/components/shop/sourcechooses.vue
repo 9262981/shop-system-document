@@ -1,6 +1,6 @@
 <template>
   <div class="routerview">
-    <h3>源码方案选定-进度查询</h3>
+    <h3>进度查询-源码方案选定</h3>
     <el-steps :active="1">
       <el-step title="方案整理" description="源码方案整理"></el-step>
       <el-step title="源码选定" description=""></el-step>
