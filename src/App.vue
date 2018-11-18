@@ -75,20 +75,16 @@ export default {
               urlName: "Domainname"
             },
             {
-              label: "服务器购买",
-              urlName: "ScheduleV100"
-            },
-            {
-              label: "接口服务申请",
+              label: "服务器购买/接口服务申请",
               urlName: "Apireg"
             },
             {
               label: "产品功能设定",
-              urlName: "ScheduleV100"
+              urlName: "Productfunction"
             },
             {
               label: "代码部署",
-              urlName: "ScheduleV100"
+              urlName: "Deploy"
             },
             {
               label: "网络拓扑/文案整理",
@@ -96,11 +92,7 @@ export default {
             },
             {
               label: "UI设计",
-              urlName: "ScheduleV100"
-            },
-            {
-              label: "前端实施",
-              urlName: "ScheduleV100"
+              urlName: "Ui"
             }
           ]
         }

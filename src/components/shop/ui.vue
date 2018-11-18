@@ -1,31 +1,29 @@
 <template>
   <div class="routerview">
 
-    <h3>服务器购买</h3>
+    <h3>UI设计--logo提案</h3>
+    <h3>UI设计--界面提案</h3>
+    <h3>前端实施</h3>
+    <h3>后端整合</h3>
     
-    <h3>支付宝接口申请</h3>
-    
-    <h3>微信支付接口申请</h3>
-  
-    <h3>短信服务接口申请</h3>
 
-    <Apiregs></Apiregs>
+    <Uis></Uis>
 
   </div>
 </template>
 
 <script>
-import Apiregs from './apiregs' 
+import Uis from './uis' 
 
 export default {
-  name: 'Apireg',
+  name: 'Ui',
 
   data() {
     return {
     }
   },
   components: {
-    Apiregs
+    Uis
   }
 }
 </script>

@@ -1,31 +1,26 @@
 <template>
   <div class="routerview">
 
-    <h3>服务器购买</h3>
+    <h3>产品特殊功能性开发</h3>
     
-    <h3>支付宝接口申请</h3>
-    
-    <h3>微信支付接口申请</h3>
-  
-    <h3>短信服务接口申请</h3>
 
-    <Apiregs></Apiregs>
+    <Productfunctions></Productfunctions>
 
   </div>
 </template>
 
 <script>
-import Apiregs from './apiregs' 
+import Productfunctions from './productfunctions' 
 
 export default {
-  name: 'Apireg',
+  name: 'Productfunction',
 
   data() {
     return {
     }
   },
   components: {
-    Apiregs
+    Productfunctions
   }
 }
 </script>
