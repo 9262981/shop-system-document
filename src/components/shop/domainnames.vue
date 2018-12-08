@@ -1,6 +1,6 @@
 <template>
   <div class="routerview">
-    <h3>进度查询-域名申请-名称选定</h3>
+    <h3>域名申请-名称选定</h3>
     <el-steps :active="0">
       <el-step title="名称选定" description=""></el-step>
       <el-step title="域名申请" description=""></el-step>

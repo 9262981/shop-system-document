@@ -4,11 +4,11 @@
     <h3>项目实施/总进度查询</h3>
     <SourceChooseS></SourceChooseS>
     <Domainnames></Domainnames>
+    <Uis></Uis>
     <Apiregs></Apiregs>
     <Productfunctions></Productfunctions>
     <Deploys></Deploys>
     <TreeDocumentS></TreeDocumentS>
-    <Uis></Uis>
   </div>
 </template>
 

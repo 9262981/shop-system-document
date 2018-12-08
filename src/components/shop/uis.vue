@@ -1,6 +1,6 @@
 <template>
   <div class="routerview">
-    <h3>进度查询-UI-前端</h3>
+    <h3>UI-前端</h3>
     <el-steps :active="0">
       <el-step title="UI设计--logo提案" description=""></el-step>
       <el-step title="UI设计--界面提案" description=""></el-step>

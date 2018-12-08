@@ -1,6 +1,6 @@
 <template>
   <div class="routerview">
-    <h3>进度查询-网络拓扑图-文案</h3>
+    <h3>网络拓扑图-文案</h3>
     <el-steps :active="0">
       <el-step title="准备阶段" description=""></el-step>
       <el-step title="网络拓扑图" description="整理"></el-step>

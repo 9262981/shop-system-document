@@ -1,6 +1,6 @@
 <template>
   <div class="routerview">
-    <h3>进度查询-服务器购买-支付宝接口申请-微信支付接口申请-短信服务接口申请</h3>
+    <h3>服务器购买-支付宝接口申请-微信支付接口申请-短信服务接口申请</h3>
     <el-steps :active="0">
       <el-step title="服务器购买" description=""></el-step>
       <el-step title="支付宝接口申请" description=""></el-step>

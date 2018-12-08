@@ -4,7 +4,7 @@
     <el-header>
       <div class="logoimg">
         <a href="http://www.9262981.com/doc">
-          <img alt="FreekeerDevelopDocument-自由职客开发文档" src="./assets/logofreekeer.png" >
+          <img alt="FreekeerDevelopDocument-自由职客开发文档" src="./assets/logo.png" style="">
         </a>
 
       </div>
@@ -162,8 +162,9 @@ body {
 }
 
 .logoimg {
-  width: 210px;
-  height: 50px;
+  width: 180px;
+  height: 39px;
+  margin:15px;
 }
 .logoimg img {
   width: 210px;

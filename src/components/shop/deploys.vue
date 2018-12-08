@@ -1,6 +1,6 @@
 <template>
   <div class="routerview">
-    <h3>进度查询-代码部署</h3>
+    <h3>代码部署</h3>
     <el-steps :active="0">
       <el-step title="代码部署" description=""></el-step>
       <el-step title="代码开发" description=""></el-step>
