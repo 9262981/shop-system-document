@@ -1,6 +1,6 @@
 <template>
   <div class="routerview">
-      <h3>联络名单:(QQ群:******)</h3>
+      <h3>联络名单:</h3>
 
   <el-table
     :data="tableData"
@@ -39,29 +39,23 @@
     data() {
       return {
         tableData: [{
-          date: '项目主管',
-          name: '王小虎',
-          wechat:'111111',
-          qq:'111111',
-          telephone: '13311112222'
+          date: 'java',
+          name: '刘畅',
+          wechat:'null',
+          qq:'null',
+          telephone: 'null'
+        },  {
+          date: '产品+前端',
+          name: '王营超',
+          wechat:'way8410',
+          qq:'null',
+          telephone: 'null'
         }, {
-          date: '后端',
-          name: '王小虎',
-          wechat:'111111',
-          qq:'111111',
-          telephone: '13311112222'
-        }, {
-          date: '前端',
-          name: '王小虎',
-          wechat:'111111',
-          qq:'111111',
-          telephone: '13311112222'
-        }, {
-          date: 'UI',
-          name: '王小虎',
-          wechat:'111111',
-          qq:'111111',
-          telephone: '13311112222'
+          date: '策划',
+          name: '大鹏',
+          wechat:'9262981',
+          qq:'9262981',
+          telephone: '17611262981'
         }]
       }
     }

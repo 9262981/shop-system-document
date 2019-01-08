@@ -17,7 +17,7 @@
         <div id="mainLeft" class="noprint">
           <nav>
             <div>
-              <h4 style="margin:21px 0">商城系统</h4>
+              <h4 style="margin:21px 0">爱回用系统</h4>
               <ul style="padding:3px 0 0 -5px;">
                 <el-tree 
                   :data="anttax" 
@@ -62,39 +62,62 @@ export default {
         },
         {
           id: 3,
-          label: "项目实施&进度查询",
+          label: "一期项目",
           urlName: "ImplementationProgress",
           children: [
             {
-              label: "源码方案选定",
-              urlName: "SourceChoose"
+              label: "R回收系统",
+              urlName: "StructureRecovery"
             },
             {
-              label: "域名申请/备案/商城名称选定",
-              urlName: "Domainname"
+              label: "A端管理系统",
+              urlName: "Apanel"
             },
             {
-              label: "服务器购买/接口服务申请",
-              urlName: "Apireg"
+              label: "T质检系统",
+              urlName: "Test"
             },
             {
-              label: "产品功能设定",
-              urlName: "Productfunction"
-            },
-            {
-              label: "代码部署",
-              urlName: "Deploy"
-            },
-            {
-              label: "网络拓扑/文案整理",
-              urlName: "TreeDocument"
-            },
-            {
-              label: "UI设计",
-              urlName: "Ui"
+              label: "C端用户系统",
+              urlName: "Customer"
             }
           ]
-        }
+        },
+        // {
+        //   id: 3,
+        //   label: "项目实施&进度查询",
+        //   urlName: "ImplementationProgress",
+        //   children: [
+        //     {
+        //       label: "源码方案选定",
+        //       urlName: "SourceChoose"
+        //     },
+        //     {
+        //       label: "域名申请/备案/商城名称选定",
+        //       urlName: "Domainname"
+        //     },
+        //     {
+        //       label: "服务器购买/接口服务申请",
+        //       urlName: "Apireg"
+        //     },
+        //     {
+        //       label: "产品功能设定",
+        //       urlName: "Productfunction"
+        //     },
+        //     {
+        //       label: "代码部署",
+        //       urlName: "Deploy"
+        //     },
+        //     {
+        //       label: "网络拓扑/文案整理",
+        //       urlName: "TreeDocument"
+        //     },
+        //     {
+        //       label: "UI设计",
+        //       urlName: "Ui"
+        //     }
+        //   ]
+        // }
       ],
       //
       defaultProps: {
@@ -130,6 +153,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   /* text-align: center; */
   color: #2c3e50;
+
 }
 
 html {
@@ -161,13 +185,12 @@ body {
 }
 
 .logoimg {
-  width: 180px;
-  height: 39px;
-  margin:15px;
+  width: 120px;
+  height: 21px;
+  margin:6px 55px;
 }
 .logoimg img {
-  width: 210px;
-  height: 50px;
+  width: 150px;
 }
 .el-button-show {
   float: right;
@@ -229,7 +252,13 @@ body {
 }
 .routerview {
   margin:0 auto;
-  padding:33px 0 66px 0;
+  padding:33px 12px 33px 12px;
+  font-family: "PingFang SC", "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", 微软雅黑, Arial, sans-serif;
+  font-size: .8rem;
+  line-height: 1.2rem;
+}
+.routerview p{
+  margin:0 1rem;
 }
 h3 {
   width: 100%;
@@ -238,7 +267,7 @@ h3 {
   line-height: 2em;
   border: 1px solid #ccc;
   border-radius: 4px;
-  margin-bottom: 33px;
+  margin-bottom: 1rem;
   background-color: #eaeaea;
   text-align: left;
   text-indent:2em

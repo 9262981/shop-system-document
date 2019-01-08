@@ -5,6 +5,8 @@ import VueRouter from 'vue-router'
 import Introduction from '@/components/shop/Introduction.vue'
 import Contact from '@/components/shop/contact.vue'
 import ImplementationProgress from '@/components/shop/ImplementationProgress.vue'
+//根据项目
+import StructureRecovery from '@/components/shop/structurerecovery.vue'
 
 //项目实施进度查询
 
@@ -47,6 +49,18 @@ const routes = [{
     name: 'ImplementationProgress',
     component: ImplementationProgress
   },
+  ///////////////////////////////////////////////根据项目
+
+  {
+    path: '/shop/StructureRecovery',
+    name: 'StructureRecovery',
+    component: StructureRecovery
+  },
+
+
+
+
+
   ///////////////////////////////////////////////源码选定
   {
     path: '/shop/sourcechoose',
