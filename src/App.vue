@@ -13,7 +13,7 @@
       </span>
     </el-header>
     <el-container>
-      <el-aside id="elaside" style="width:333px;z-index:99;margin-top:-1px;">
+      <el-aside id="elaside" style="width:266px;z-index:99;margin-top:-1px;">
         <div id="mainLeft" class="noprint">
           <nav>
             <div>
@@ -62,24 +62,24 @@ export default {
         },
         {
           id: 3,
-          label: "一期项目",
-          urlName: "ImplementationProgress",
+          label: "一期项目概览",
+          urlName: "all",
           children: [
             {
-              label: "R回收系统",
-              urlName: "StructureRecovery"
+              label: "爱回用---R回收系统",
+              urlName: "rsystem"
             },
             {
-              label: "A端管理系统",
-              urlName: "Apanel"
+              label: "爱回用---A端管理系统",
+              urlName: "asystem"
             },
             {
-              label: "T质检系统",
-              urlName: "Test"
+              label: "爱回用---T质检系统",
+              urlName: "tsystem"
             },
             {
-              label: "C端用户系统",
-              urlName: "Customer"
+              label: "爱回用---C端用户订单平台",
+              urlName: "csystem"
             }
           ]
         },
@@ -148,7 +148,7 @@ export default {
 
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* text-align: center; */
@@ -254,11 +254,15 @@ body {
   margin:0 auto;
   padding:33px 12px 33px 12px;
   font-family: "PingFang SC", "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", 微软雅黑, Arial, sans-serif;
-  font-size: .8rem;
-  line-height: 1.2rem;
+  font-size: .9rem;
+  line-height: 1.5rem;
 }
 .routerview p{
   margin:0 1rem;
+}
+.routerview a{
+  color:blue;
+  text-decoration: none;
 }
 h3 {
   width: 100%;
