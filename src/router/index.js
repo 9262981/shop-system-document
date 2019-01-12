@@ -1,15 +1,15 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
+import Vue from 'vue';
+import VueRouter from 'vue-router';
 
 // SHOP
-import Introduction from '@/components/Introduction.vue'
-import Contact from '@/components/contact.vue'
+import Introduction from '@/components/Introduction.vue';
+import Contact from '@/components/contact.vue';
 //根据项目
-import all from '@/components/structure/all.vue'
-import rsystem from '@/components/structure/rsystem.vue'
-import asystem from '@/components/structure/asystem.vue'
-import csystem from '@/components/structure/csystem.vue'
-import tsystem from '@/components/structure/tsystem.vue'
+import all from '@/components/structure/all.vue';
+import rsystem from '@/components/structure/rsystem.vue';
+import asystem from '@/components/structure/asystem.vue';
+import csystem from '@/components/structure/csystem.vue';
+import tsystem from '@/components/structure/tsystem.vue';
 
 
 Vue.use(VueRouter)
