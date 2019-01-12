@@ -51,7 +51,7 @@
           qq:'null',
           telephone: 'null'
         }, {
-          date: '策划',
+          date: '协调人',
           name: '大鹏',
           wechat:'9262981',
           qq:'9262981',

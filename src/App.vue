@@ -4,7 +4,7 @@
     <el-header>
       <div class="logoimg">
         <a href="http://www.9262981.com/doc">
-          <img alt="FreekeerDevelopDocument-自由职客开发文档" src="./assets/logo.png" style="">
+          <img alt="爱回用" src="./assets/logo.png" style="">
         </a>
 
       </div>
