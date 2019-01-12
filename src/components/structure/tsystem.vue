@@ -2,12 +2,1234 @@
   <div class="routerview">
     <h3>爱回用---T质检系统</h3>
     <p>
-    <a href="http://naotu.baidu.com/file/b1fd1469a9949de02881212929fcd5ad?token=b50cb44c3d23e8b1" target="_blank">线上脑图</a>
+      <a
+        href="http://naotu.baidu.com/file/b1fd1469a9949de02881212929fcd5ad?token=b50cb44c3d23e8b1"
+        target="_blank"
+      >线上脑图</a>
       <br>密码: VV4t
+      <br>
+      <br>客户提交回收订单--顺丰取货--送至本司后--进行人工质检
+      <br>全程视频监控
+      <br>质检人员针对要求的规则在A端登录填写质检信息
+      <br>
+      <b>说明</b>
+      <br>质检报告左侧为客户提交数据;
+      <br>质检报告右侧为本司质检报告进行对比+备注信息;
+      <br>质检报告列出客户机器质检照片(正面/侧面*4/底部/损伤部位特写);
 
       <br>
+      <img src="../../assets/structure/duibi.jpg" width="55%" preview="1" preview-text>
+
       <br>
-<svg id="kity_svg_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="955" height="737" style="background: rgb(251, 251, 251); visibility: visible;" viewBox="0 0 955 737"><defs id="kity_defs_7"><linearGradient id="kity_linearGradient_17" x1="0" y1="0" x2="0" y2="1"><stop id="kity_stop_18" offset="0" stop-color="rgb(255, 255, 255)"></stop><stop id="kity_stop_19" offset="1" stop-color="rgb(204, 204, 204)"></stop></linearGradient><marker id="kity_marker_2" orient="auto" refX="6" refY="0" viewBox="-7 -7 14 14" markerWidth="7" markerHeight="7" markerUnits="userSpaceOnUse"><path id="kity_path_3" fill="rgb(115, 161, 191)" stroke="none" d="M6,0A6,6,0,1,1,-6,0A6,6,0,1,1,6,0"></path></marker></defs><g id="kity_g_8"><g id="minder1" text-rendering="optimize-speed"><g id="minder_connect_group1"><path id="kity_path_31" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M100.5,369.5A113,2,0,0,1,213.5,367.5"></path><path id="kity_path_992" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M311.5,367.5C314.5,367.5,314.5,691.5,317.5,691.5L637.5,691.5"></path><path id="kity_path_994" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,379.5,415.5,379.5L483.5,379.5"></path><path id="kity_path_995" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,93.5,439.5,93.5L531.5,93.5"></path><path id="kity_path_996" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,119.5,439.5,119.5L519.5,119.5"></path><path id="kity_path_997" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,145.5,439.5,145.5L507.5,145.5"></path><path id="kity_path_998" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,171.5,439.5,171.5L507.5,171.5"></path><path id="kity_path_999" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,197.5,439.5,197.5L507.5,197.5"></path><path id="kity_path_1000" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,353.5,439.5,353.5L507.5,353.5"></path><path id="kity_path_1001" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,249.5,439.5,249.5L507.5,249.5"></path><path id="kity_path_1002" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,275.5,439.5,275.5L507.5,275.5"></path><path id="kity_path_1003" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,301.5,439.5,301.5L507.5,301.5"></path><path id="kity_path_1004" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,223.5,439.5,223.5L697.5,223.5"></path><path id="kity_path_1005" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M433.5,223.5C436.5,223.5,436.5,327.5,439.5,327.5L495.5,327.5"></path><path id="kity_path_1007" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M311.5,367.5C314.5,367.5,314.5,223.5,317.5,223.5L433.5,223.5"></path><path id="kity_path_1015" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M311.5,367.5C314.5,367.5,314.5,522.5,317.5,522.5L409.5,522.5"></path><path id="kity_path_1022" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M483.5,379.5C486.5,379.5,486.5,379.5,489.5,379.5L680.5,379.5"></path><path id="kity_path_1024" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,405.5,415.5,405.5L507.5,405.5"></path><path id="kity_path_1026" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,431.5,415.5,431.5L495.5,431.5"></path><path id="kity_path_1028" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,457.5,415.5,457.5L483.5,457.5"></path><path id="kity_path_1030" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,483.5,415.5,483.5L483.5,483.5"></path><path id="kity_path_1032" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,509.5,415.5,509.5L483.5,509.5"></path><path id="kity_path_1034" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,535.5,415.5,535.5L471.5,535.5"></path><path id="kity_path_1036" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,561.5,415.5,561.5L483.5,561.5"></path><path id="kity_path_1038" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,587.5,415.5,587.5L483.5,587.5"></path><path id="kity_path_1040" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,613.5,415.5,613.5L483.5,613.5"></path><path id="kity_path_1042" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,639.5,415.5,639.5L483.5,639.5"></path><path id="kity_path_1044" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M409.5,522.5C412.5,522.5,412.5,665.5,415.5,665.5L673.5,665.5"></path><path id="kity_path_1112" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M483.5,483.5C486.5,483.5,486.5,483.5,489.5,483.5L935.5,483.5"></path><path id="kity_path_1128" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M311.5,367.5C314.5,367.5,314.5,717.5,317.5,717.5L593.5,717.5"></path><path id="kity_path_1136" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M311.5,367.5C314.5,367.5,314.5,41.5,317.5,41.5L446.5,41.5"></path><path id="kity_path_1138" fill="none" stroke="rgb(115, 161, 191)" stroke-width="1" d="M311.5,367.5C314.5,367.5,314.5,67.5,317.5,67.5L409.5,67.5"></path></g><g id="minder_node1"><path id="node_outline1" fill="rgb(115, 161, 191)" stroke="rgb(115, 161, 191)" d="M25.5,355.5h150a5,5,0,0,1,5,5v18a5,5,0,0,1,-5,5h-150a5,5,0,0,1,-5,-5v-18a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text1" fill="white"><text id="kity_text_22" text-rendering="inherit" font-size="16" dy=".8em" y="359.09999990463257" x="32.5">爱回用---T质检系统</text></g></g><g id="kity_g_14" display="none"><path id="kity_path_15" fill="rgba(0, 92, 153, 0.5)" stroke="none" d="M264.5,550.5h82v4h-82z"></path><path id="kity_path_16" fill="none" stroke="rgb(0, 76, 128)" d="M264.5,550.5L346.5,550.5" stroke-width="1"></path></g><g id="minder_node2" opacity="1"><g id="node_expander84" style="cursor: pointer;"><path id="kity_path_755" fill="white" stroke="gray" d="M214.5,367.5A6,6,0,1,1,202.5,367.5A6,6,0,1,1,214.5,367.5"></path><path id="kity_path_756" fill="none" stroke="gray" d="M204,367.5L213,367.5"></path></g><path id="node_outline85" fill="rgb(238, 243, 246)" stroke="rgb(115, 161, 191)" d="M218.5,354.5h90a3,3,0,0,1,3,3v20a3,3,0,0,1,-3,3h-90a3,3,0,0,1,-3,-3v-20a3,3,0,0,1,3,-3z" stroke-width="1"></path><g id="node_text85" fill="black"><text id="kity_text_365" text-rendering="inherit" font-size="14" dy=".8em" y="358.40000009536743" x="235.5">质检系统</text></g></g><g id="minder_node97" opacity="1"><g id="node_expander96" style="cursor: pointer;" display="none"><path id="kity_path_934" fill="white" stroke="gray" d="M327.5,679.5A6,6,0,1,1,315.5,679.5A6,6,0,1,1,327.5,679.5"></path><path id="kity_path_935" fill="none" stroke="gray" d="M317,679.5L326,679.5"></path></g><path id="node_outline97" fill="none" stroke="none" d="M332.5,670.5h300a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-300a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text97" fill="black"><text id="kity_text_889" text-rendering="inherit" font-size="12" dy=".8em" y="671.7000000476837" x="332.5">在客户对应的回收订单信息中加入质检报告详细信息对比</text></g></g><g id="minder_node99" opacity="1"><g id="node_expander98" style="cursor: pointer;"><path id="kity_path_940" fill="white" stroke="gray" d="M425.5,367.5A6,6,0,1,1,413.5,367.5A6,6,0,1,1,425.5,367.5"></path><path id="kity_path_941" fill="none" stroke="gray" d="M415,367.5L424,367.5"></path></g><path id="node_outline99" fill="none" stroke="none" d="M430.5,358.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text99" fill="black"><text id="kity_text_893" text-rendering="inherit" font-size="12" dy=".8em" y="359.7000000476837" x="430.5">机器拍照</text></g></g><g id="minder_node101" opacity="1"><g id="node_expander99" style="cursor: pointer;" display="none"><path id="kity_path_943" fill="white" stroke="gray" d="M449.5,81.5A6,6,0,1,1,437.5,81.5A6,6,0,1,1,449.5,81.5"></path><path id="kity_path_944" fill="none" stroke="gray"></path></g><path id="node_outline100" fill="none" stroke="none" d="M454.5,72.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text100" fill="black"><text id="kity_text_895" text-rendering="inherit" font-size="12" dy=".8em" y="73.70000004768372" x="454.5">平台总成价格</text></g></g><g id="minder_node102" opacity="1"><g id="node_expander100" style="cursor: pointer;" display="none"><path id="kity_path_946" fill="white" stroke="gray" d="M449.5,107.5A6,6,0,1,1,437.5,107.5A6,6,0,1,1,449.5,107.5"></path><path id="kity_path_947" fill="none" stroke="gray"></path></g><path id="node_outline101" fill="none" stroke="none" d="M454.5,98.5h60a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-60a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text101" fill="black"><text id="kity_text_897" text-rendering="inherit" font-size="12" dy=".8em" y="99.70000004768372" x="454.5">处理器型号</text></g></g><g id="minder_node103" opacity="1"><g id="node_expander101" style="cursor: pointer;" display="none"><path id="kity_path_949" fill="white" stroke="gray" d="M449.5,133.5A6,6,0,1,1,437.5,133.5A6,6,0,1,1,449.5,133.5"></path><path id="kity_path_950" fill="none" stroke="gray"></path></g><path id="node_outline102" fill="none" stroke="none" d="M454.5,124.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text102" fill="black"><text id="kity_text_899" text-rendering="inherit" font-size="12" dy=".8em" y="125.70000004768372" x="454.5">内存容量</text></g></g><g id="minder_node104" opacity="1"><g id="node_expander102" style="cursor: pointer;" display="none"><path id="kity_path_952" fill="white" stroke="gray" d="M449.5,159.5A6,6,0,1,1,437.5,159.5A6,6,0,1,1,449.5,159.5"></path><path id="kity_path_953" fill="none" stroke="gray"></path></g><path id="node_outline103" fill="none" stroke="none" d="M454.5,150.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text103" fill="black"><text id="kity_text_901" text-rendering="inherit" font-size="12" dy=".8em" y="151.70000004768372" x="454.5">硬盘容量</text></g></g><g id="minder_node110" opacity="1"><g id="node_expander108" style="cursor: pointer;" display="none"><path id="kity_path_970" fill="white" stroke="gray" d="M449.5,185.5A6,6,0,1,1,437.5,185.5A6,6,0,1,1,449.5,185.5"></path><path id="kity_path_971" fill="none" stroke="gray"></path></g><path id="node_outline109" fill="none" stroke="none" d="M454.5,176.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text109" fill="black"><text id="kity_text_913" text-rendering="inherit" font-size="12" dy=".8em" y="177.70000004768372" x="454.5">显卡类型</text></g></g><g id="minder_node106" opacity="1"><g id="node_expander104" style="cursor: pointer;" display="none"><path id="kity_path_958" fill="white" stroke="gray" d="M449.5,341.5A6,6,0,1,1,437.5,341.5A6,6,0,1,1,449.5,341.5"></path><path id="kity_path_959" fill="none" stroke="gray"></path></g><path id="node_outline105" fill="none" stroke="none" d="M454.5,332.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text105" fill="black"><text id="kity_text_905" text-rendering="inherit" font-size="12" dy=".8em" y="333.7000000476837" x="454.5">开机运行</text></g></g><g id="minder_node107" opacity="1"><g id="node_expander105" style="cursor: pointer;" display="none"><path id="kity_path_961" fill="white" stroke="gray" d="M449.5,237.5A6,6,0,1,1,437.5,237.5A6,6,0,1,1,449.5,237.5"></path><path id="kity_path_962" fill="none" stroke="gray"></path></g><path id="node_outline106" fill="none" stroke="none" d="M454.5,228.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text106" fill="black"><text id="kity_text_907" text-rendering="inherit" font-size="12" dy=".8em" y="229.70000004768372" x="454.5">边框背板</text></g></g><g id="minder_node108" opacity="1"><g id="node_expander106" style="cursor: pointer;" display="none"><path id="kity_path_964" fill="white" stroke="gray" d="M449.5,263.5A6,6,0,1,1,437.5,263.5A6,6,0,1,1,449.5,263.5"></path><path id="kity_path_965" fill="none" stroke="gray"></path></g><path id="node_outline107" fill="none" stroke="none" d="M454.5,254.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text107" fill="black"><text id="kity_text_909" text-rendering="inherit" font-size="12" dy=".8em" y="255.70000004768372" x="454.5">屏幕外观</text></g></g><g id="minder_node109" opacity="1"><g id="node_expander107" style="cursor: pointer;" display="none"><path id="kity_path_967" fill="white" stroke="gray" d="M449.5,289.5A6,6,0,1,1,437.5,289.5A6,6,0,1,1,449.5,289.5"></path><path id="kity_path_968" fill="none" stroke="gray"></path></g><path id="node_outline108" fill="none" stroke="none" d="M454.5,280.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text108" fill="black"><text id="kity_text_911" text-rendering="inherit" font-size="12" dy=".8em" y="281.7000000476837" x="454.5">屏幕显示</text></g></g><g id="minder_node111" opacity="1"><g id="node_expander109" style="cursor: pointer;" display="none"><path id="kity_path_973" fill="white" stroke="gray" d="M449.5,211.5A6,6,0,1,1,437.5,211.5A6,6,0,1,1,449.5,211.5"></path><path id="kity_path_974" fill="none" stroke="gray"></path></g><path id="node_outline110" fill="none" stroke="none" d="M454.5,202.5h238a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-238a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text110" fill="black"><text id="kity_text_915" text-rendering="inherit" font-size="12" dy=".8em" y="203.70000004768372" x="454.5">质检后核对客户单项信息/备注质检信息详情/</text></g></g><g id="minder_node105" opacity="1"><g id="node_expander103" style="cursor: pointer;" display="none"><path id="kity_path_955" fill="white" stroke="gray" d="M449.5,315.5A6,6,0,1,1,437.5,315.5A6,6,0,1,1,449.5,315.5"></path><path id="kity_path_956" fill="none" stroke="gray"></path></g><path id="node_outline104" fill="none" stroke="none" d="M454.5,306.5h36a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-36a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text104" fill="black"><text id="kity_text_903" text-rendering="inherit" font-size="12" dy=".8em" y="307.7000000476837" x="454.5">多选项</text></g></g><g id="minder_node112"><g id="node_expander111" style="cursor: pointer;"><path id="kity_path_1012" fill="white" stroke="gray" d="M327.5,211.5A6,6,0,1,1,315.5,211.5A6,6,0,1,1,327.5,211.5"></path><path id="kity_path_1013" fill="none" stroke="gray" d="M317,211.5L326,211.5"></path></g><path id="node_outline112" fill="none" stroke="none" d="M332.5,202.5h96a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-96a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text112" fill="black"><text id="kity_text_1009" text-rendering="inherit" font-size="12" dy=".8em" y="203.70000004768372" x="332.5">展示客户提交数据</text></g></g><g id="minder_node113"><g id="node_expander112" style="cursor: pointer;"><path id="kity_path_1020" fill="white" stroke="gray" d="M327.5,510.5A6,6,0,1,1,315.5,510.5A6,6,0,1,1,327.5,510.5"></path><path id="kity_path_1021" fill="none" stroke="gray" d="M317,510.5L326,510.5"></path></g><path id="node_outline113" fill="none" stroke="none" d="M332.5,501.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text113" fill="black"><text id="kity_text_1017" text-rendering="inherit" font-size="12" dy=".8em" y="502.7000000476837" x="332.5">平台质检数据</text></g></g><g id="kity_g_12" display="none"><path id="kity_path_13" fill="none" stroke="rgb(66, 94, 112)" d="M269.5,527.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="5"></path></g><g id="minder_node100"><g id="node_expander97" style="cursor: pointer;" display="none"><path id="kity_path_937" fill="white" stroke="gray" d="M499.5,367.5A6,6,0,1,1,487.5,367.5A6,6,0,1,1,499.5,367.5"></path><path id="kity_path_938" fill="none" stroke="gray"></path></g><path id="node_outline98" fill="none" stroke="none" d="M504.5,358.5h171a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-171a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text98" fill="black"><text id="kity_text_891" text-rendering="inherit" font-size="12" dy=".8em" y="359.7000000476837" x="504.5">正面/侧面*4/底部/损伤部位特写</text></g></g><g id="minder_node114"><g id="node_expander123" style="cursor: pointer;" display="none"><path id="kity_path_1109" fill="white" stroke="gray" d="M425.5,393.5A6,6,0,1,1,413.5,393.5A6,6,0,1,1,425.5,393.5"></path><path id="kity_path_1110" fill="none" stroke="gray"></path></g><path id="node_outline124" fill="none" stroke="none" d="M430.5,384.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text124" fill="black"><text id="kity_text_1106" text-rendering="inherit" font-size="12" dy=".8em" y="385.7000000476837" x="430.5">平台总成价格</text></g></g><g id="minder_node115"><g id="node_expander122" style="cursor: pointer;" display="none"><path id="kity_path_1103" fill="white" stroke="gray" d="M425.5,419.5A6,6,0,1,1,413.5,419.5A6,6,0,1,1,425.5,419.5"></path><path id="kity_path_1104" fill="none" stroke="gray"></path></g><path id="node_outline123" fill="none" stroke="none" d="M430.5,410.5h60a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-60a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text123" fill="black"><text id="kity_text_1100" text-rendering="inherit" font-size="12" dy=".8em" y="411.7000000476837" x="430.5">处理器型号</text></g></g><g id="minder_node116"><g id="node_expander121" style="cursor: pointer;" display="none"><path id="kity_path_1097" fill="white" stroke="gray" d="M425.5,445.5A6,6,0,1,1,413.5,445.5A6,6,0,1,1,425.5,445.5"></path><path id="kity_path_1098" fill="none" stroke="gray"></path></g><path id="node_outline122" fill="none" stroke="none" d="M430.5,436.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text122" fill="black"><text id="kity_text_1094" text-rendering="inherit" font-size="12" dy=".8em" y="437.7000000476837" x="430.5">内存容量</text></g></g><g id="minder_node117"><g id="node_expander120" style="cursor: pointer;"><path id="kity_path_1091" fill="white" stroke="gray" d="M425.5,471.5A6,6,0,1,1,413.5,471.5A6,6,0,1,1,425.5,471.5"></path><path id="kity_path_1092" fill="none" stroke="gray" d="M415,471.5L424,471.5"></path></g><path id="node_outline121" fill="none" stroke="none" d="M430.5,462.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text121" fill="black"><text id="kity_text_1088" text-rendering="inherit" font-size="12" dy=".8em" y="463.7000000476837" x="430.5">硬盘容量</text></g></g><g id="minder_node118"><g id="node_expander119" style="cursor: pointer;" display="none"><path id="kity_path_1085" fill="white" stroke="gray" d="M425.5,497.5A6,6,0,1,1,413.5,497.5A6,6,0,1,1,425.5,497.5"></path><path id="kity_path_1086" fill="none" stroke="gray"></path></g><path id="node_outline120" fill="none" stroke="none" d="M430.5,488.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text120" fill="black"><text id="kity_text_1082" text-rendering="inherit" font-size="12" dy=".8em" y="489.7000000476837" x="430.5">显卡类型</text></g></g><g id="minder_node119"><g id="node_expander118" style="cursor: pointer;" display="none"><path id="kity_path_1079" fill="white" stroke="gray" d="M425.5,523.5A6,6,0,1,1,413.5,523.5A6,6,0,1,1,425.5,523.5"></path><path id="kity_path_1080" fill="none" stroke="gray"></path></g><path id="node_outline119" fill="none" stroke="none" d="M430.5,514.5h36a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-36a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text119" fill="black"><text id="kity_text_1076" text-rendering="inherit" font-size="12" dy=".8em" y="515.7000000476837" x="430.5">多选项</text></g></g><g id="minder_node120"><g id="node_expander117" style="cursor: pointer;" display="none"><path id="kity_path_1073" fill="white" stroke="gray" d="M425.5,549.5A6,6,0,1,1,413.5,549.5A6,6,0,1,1,425.5,549.5"></path><path id="kity_path_1074" fill="none" stroke="gray"></path></g><path id="node_outline118" fill="none" stroke="none" d="M430.5,540.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text118" fill="black"><text id="kity_text_1070" text-rendering="inherit" font-size="12" dy=".8em" y="541.7000000476837" x="430.5">边框背板</text></g></g><g id="minder_node121"><g id="node_expander116" style="cursor: pointer;" display="none"><path id="kity_path_1067" fill="white" stroke="gray" d="M425.5,575.5A6,6,0,1,1,413.5,575.5A6,6,0,1,1,425.5,575.5"></path><path id="kity_path_1068" fill="none" stroke="gray"></path></g><path id="node_outline117" fill="none" stroke="none" d="M430.5,566.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text117" fill="black"><text id="kity_text_1064" text-rendering="inherit" font-size="12" dy=".8em" y="567.7000000476837" x="430.5">屏幕外观</text></g></g><g id="minder_node122"><g id="node_expander115" style="cursor: pointer;" display="none"><path id="kity_path_1061" fill="white" stroke="gray" d="M425.5,601.5A6,6,0,1,1,413.5,601.5A6,6,0,1,1,425.5,601.5"></path><path id="kity_path_1062" fill="none" stroke="gray"></path></g><path id="node_outline116" fill="none" stroke="none" d="M430.5,592.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text116" fill="black"><text id="kity_text_1058" text-rendering="inherit" font-size="12" dy=".8em" y="593.7000000476837" x="430.5">屏幕显示</text></g></g><g id="minder_node123"><g id="node_expander114" style="cursor: pointer;" display="none"><path id="kity_path_1055" fill="white" stroke="gray" d="M425.5,627.5A6,6,0,1,1,413.5,627.5A6,6,0,1,1,425.5,627.5"></path><path id="kity_path_1056" fill="none" stroke="gray"></path></g><path id="node_outline115" fill="none" stroke="none" d="M430.5,618.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text115" fill="black"><text id="kity_text_1052" text-rendering="inherit" font-size="12" dy=".8em" y="619.7000000476837" x="430.5">开机运行</text></g></g><g id="minder_node124"><g id="node_expander113" style="cursor: pointer;" display="none"><path id="kity_path_1049" fill="white" stroke="gray" d="M425.5,653.5A6,6,0,1,1,413.5,653.5A6,6,0,1,1,425.5,653.5"></path><path id="kity_path_1050" fill="none" stroke="gray"></path></g><path id="node_outline114" fill="none" stroke="none" d="M430.5,644.5h238a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-238a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text114" fill="black"><text id="kity_text_1046" text-rendering="inherit" font-size="12" dy=".8em" y="645.7000000476837" x="430.5">质检后核对客户单项信息/备注质检信息详情/</text></g></g><g id="minder_node125"><g id="node_expander124" style="cursor: pointer;" display="none"><path id="kity_path_1117" fill="white" stroke="gray" d="M499.5,471.5A6,6,0,1,1,487.5,471.5A6,6,0,1,1,499.5,471.5"></path><path id="kity_path_1118" fill="none" stroke="gray"></path></g><path id="node_outline125" fill="none" stroke="none" d="M504.5,462.5h426a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-426a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text125" fill="black"><text id="kity_text_1114" text-rendering="inherit" font-size="12" dy=".8em" y="463.7000000476837" x="504.5">可能跟客户提交的有所不同,例如我们会针对硬盘等进行专业的测试工作,进行备注</text></g></g><g id="minder_node127"><g id="node_expander126" style="cursor: pointer;" display="none"><path id="kity_path_1133" fill="white" stroke="gray" d="M327.5,705.5A6,6,0,1,1,315.5,705.5A6,6,0,1,1,327.5,705.5"></path><path id="kity_path_1134" fill="none" stroke="gray"></path></g><path id="node_outline127" fill="none" stroke="none" d="M332.5,696.5h256a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-256a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text127" fill="black"><text id="kity_text_1130" text-rendering="inherit" font-size="12" dy=".8em" y="697.7000000476837" x="332.5">左侧展示客户提交数据/右侧展示本平台质检数据</text></g></g><g id="minder_node128"><g id="node_expander128" style="cursor: pointer;" display="none"><path id="kity_path_1149" fill="white" stroke="gray" d="M327.5,29.5A6,6,0,1,1,315.5,29.5A6,6,0,1,1,327.5,29.5"></path><path id="kity_path_1150" fill="none" stroke="gray"></path></g><path id="node_outline129" fill="none" stroke="none" d="M332.5,20.5h109a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-109a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text129" fill="black"><text id="kity_text_1146" text-rendering="inherit" font-size="12" dy=".8em" y="21.700000047683716" x="332.5">收货24小时检测机器</text></g></g><g id="minder_node129"><g id="node_expander127" style="cursor: pointer;" display="none"><path id="kity_path_1143" fill="white" stroke="gray" d="M327.5,55.5A6,6,0,1,1,315.5,55.5A6,6,0,1,1,327.5,55.5"></path><path id="kity_path_1144" fill="none" stroke="gray"></path></g><path id="node_outline128" fill="none" stroke="none" d="M332.5,46.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z" stroke-width="3"></path><g id="node_text128" fill="black"><text id="kity_text_1140" text-rendering="inherit" font-size="12" dy=".8em" y="47.700000047683716" x="332.5">视频监控检测</text></g></g></g></g></svg>
+      <b>展示要求</b>
+      <br>文章CMS系统:首页+文章列表页+文章单页要求:利用类似FreeMarker等技术生成html页面.便于SEO收录,后续表单提交页不做要求;
+      <br>
+      <br>
+      <br>
+      <br>
+      <svg
+        id="kity_svg_6"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        version="1.1"
+        width="955"
+        height="737"
+        style="background: rgb(251, 251, 251); visibility: visible;"
+        viewBox="0 0 955 737"
+      >
+        <defs id="kity_defs_7">
+          <linearGradient id="kity_linearGradient_17" x1="0" y1="0" x2="0" y2="1">
+            <stop id="kity_stop_18" offset="0" stop-color="rgb(255, 255, 255)"></stop>
+            <stop id="kity_stop_19" offset="1" stop-color="rgb(204, 204, 204)"></stop>
+          </linearGradient>
+          <marker
+            id="kity_marker_2"
+            orient="auto"
+            refX="6"
+            refY="0"
+            viewBox="-7 -7 14 14"
+            markerWidth="7"
+            markerHeight="7"
+            markerUnits="userSpaceOnUse"
+          >
+            <path
+              id="kity_path_3"
+              fill="rgb(115, 161, 191)"
+              stroke="none"
+              d="M6,0A6,6,0,1,1,-6,0A6,6,0,1,1,6,0"
+            ></path>
+          </marker>
+        </defs>
+        <g id="kity_g_8">
+          <g id="minder1" text-rendering="optimize-speed">
+            <g id="minder_connect_group1">
+              <path
+                id="kity_path_31"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M100.5,369.5A113,2,0,0,1,213.5,367.5"
+              ></path>
+              <path
+                id="kity_path_992"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M311.5,367.5C314.5,367.5,314.5,691.5,317.5,691.5L637.5,691.5"
+              ></path>
+              <path
+                id="kity_path_994"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,379.5,415.5,379.5L483.5,379.5"
+              ></path>
+              <path
+                id="kity_path_995"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,93.5,439.5,93.5L531.5,93.5"
+              ></path>
+              <path
+                id="kity_path_996"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,119.5,439.5,119.5L519.5,119.5"
+              ></path>
+              <path
+                id="kity_path_997"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,145.5,439.5,145.5L507.5,145.5"
+              ></path>
+              <path
+                id="kity_path_998"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,171.5,439.5,171.5L507.5,171.5"
+              ></path>
+              <path
+                id="kity_path_999"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,197.5,439.5,197.5L507.5,197.5"
+              ></path>
+              <path
+                id="kity_path_1000"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,353.5,439.5,353.5L507.5,353.5"
+              ></path>
+              <path
+                id="kity_path_1001"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,249.5,439.5,249.5L507.5,249.5"
+              ></path>
+              <path
+                id="kity_path_1002"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,275.5,439.5,275.5L507.5,275.5"
+              ></path>
+              <path
+                id="kity_path_1003"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,301.5,439.5,301.5L507.5,301.5"
+              ></path>
+              <path
+                id="kity_path_1004"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,223.5,439.5,223.5L697.5,223.5"
+              ></path>
+              <path
+                id="kity_path_1005"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M433.5,223.5C436.5,223.5,436.5,327.5,439.5,327.5L495.5,327.5"
+              ></path>
+              <path
+                id="kity_path_1007"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M311.5,367.5C314.5,367.5,314.5,223.5,317.5,223.5L433.5,223.5"
+              ></path>
+              <path
+                id="kity_path_1015"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M311.5,367.5C314.5,367.5,314.5,522.5,317.5,522.5L409.5,522.5"
+              ></path>
+              <path
+                id="kity_path_1022"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M483.5,379.5C486.5,379.5,486.5,379.5,489.5,379.5L680.5,379.5"
+              ></path>
+              <path
+                id="kity_path_1024"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,405.5,415.5,405.5L507.5,405.5"
+              ></path>
+              <path
+                id="kity_path_1026"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,431.5,415.5,431.5L495.5,431.5"
+              ></path>
+              <path
+                id="kity_path_1028"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,457.5,415.5,457.5L483.5,457.5"
+              ></path>
+              <path
+                id="kity_path_1030"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,483.5,415.5,483.5L483.5,483.5"
+              ></path>
+              <path
+                id="kity_path_1032"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,509.5,415.5,509.5L483.5,509.5"
+              ></path>
+              <path
+                id="kity_path_1034"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,535.5,415.5,535.5L471.5,535.5"
+              ></path>
+              <path
+                id="kity_path_1036"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,561.5,415.5,561.5L483.5,561.5"
+              ></path>
+              <path
+                id="kity_path_1038"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,587.5,415.5,587.5L483.5,587.5"
+              ></path>
+              <path
+                id="kity_path_1040"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,613.5,415.5,613.5L483.5,613.5"
+              ></path>
+              <path
+                id="kity_path_1042"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,639.5,415.5,639.5L483.5,639.5"
+              ></path>
+              <path
+                id="kity_path_1044"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M409.5,522.5C412.5,522.5,412.5,665.5,415.5,665.5L673.5,665.5"
+              ></path>
+              <path
+                id="kity_path_1112"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M483.5,483.5C486.5,483.5,486.5,483.5,489.5,483.5L935.5,483.5"
+              ></path>
+              <path
+                id="kity_path_1128"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M311.5,367.5C314.5,367.5,314.5,717.5,317.5,717.5L593.5,717.5"
+              ></path>
+              <path
+                id="kity_path_1136"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M311.5,367.5C314.5,367.5,314.5,41.5,317.5,41.5L446.5,41.5"
+              ></path>
+              <path
+                id="kity_path_1138"
+                fill="none"
+                stroke="rgb(115, 161, 191)"
+                stroke-width="1"
+                d="M311.5,367.5C314.5,367.5,314.5,67.5,317.5,67.5L409.5,67.5"
+              ></path>
+            </g>
+            <g id="minder_node1">
+              <path
+                id="node_outline1"
+                fill="rgb(115, 161, 191)"
+                stroke="rgb(115, 161, 191)"
+                d="M25.5,355.5h150a5,5,0,0,1,5,5v18a5,5,0,0,1,-5,5h-150a5,5,0,0,1,-5,-5v-18a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text1" fill="white">
+                <text
+                  id="kity_text_22"
+                  text-rendering="inherit"
+                  font-size="16"
+                  dy=".8em"
+                  y="359.09999990463257"
+                  x="32.5"
+                >爱回用---T质检系统</text>
+              </g>
+            </g>
+            <g id="kity_g_14" display="none">
+              <path
+                id="kity_path_15"
+                fill="rgba(0, 92, 153, 0.5)"
+                stroke="none"
+                d="M264.5,550.5h82v4h-82z"
+              ></path>
+              <path
+                id="kity_path_16"
+                fill="none"
+                stroke="rgb(0, 76, 128)"
+                d="M264.5,550.5L346.5,550.5"
+                stroke-width="1"
+              ></path>
+            </g>
+            <g id="minder_node2" opacity="1">
+              <g id="node_expander84" style="cursor: pointer;">
+                <path
+                  id="kity_path_755"
+                  fill="white"
+                  stroke="gray"
+                  d="M214.5,367.5A6,6,0,1,1,202.5,367.5A6,6,0,1,1,214.5,367.5"
+                ></path>
+                <path id="kity_path_756" fill="none" stroke="gray" d="M204,367.5L213,367.5"></path>
+              </g>
+              <path
+                id="node_outline85"
+                fill="rgb(238, 243, 246)"
+                stroke="rgb(115, 161, 191)"
+                d="M218.5,354.5h90a3,3,0,0,1,3,3v20a3,3,0,0,1,-3,3h-90a3,3,0,0,1,-3,-3v-20a3,3,0,0,1,3,-3z"
+                stroke-width="1"
+              ></path>
+              <g id="node_text85" fill="black">
+                <text
+                  id="kity_text_365"
+                  text-rendering="inherit"
+                  font-size="14"
+                  dy=".8em"
+                  y="358.40000009536743"
+                  x="235.5"
+                >质检系统</text>
+              </g>
+            </g>
+            <g id="minder_node97" opacity="1">
+              <g id="node_expander96" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_934"
+                  fill="white"
+                  stroke="gray"
+                  d="M327.5,679.5A6,6,0,1,1,315.5,679.5A6,6,0,1,1,327.5,679.5"
+                ></path>
+                <path id="kity_path_935" fill="none" stroke="gray" d="M317,679.5L326,679.5"></path>
+              </g>
+              <path
+                id="node_outline97"
+                fill="none"
+                stroke="none"
+                d="M332.5,670.5h300a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-300a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text97" fill="black">
+                <text
+                  id="kity_text_889"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="671.7000000476837"
+                  x="332.5"
+                >在客户对应的回收订单信息中加入质检报告详细信息对比</text>
+              </g>
+            </g>
+            <g id="minder_node99" opacity="1">
+              <g id="node_expander98" style="cursor: pointer;">
+                <path
+                  id="kity_path_940"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,367.5A6,6,0,1,1,413.5,367.5A6,6,0,1,1,425.5,367.5"
+                ></path>
+                <path id="kity_path_941" fill="none" stroke="gray" d="M415,367.5L424,367.5"></path>
+              </g>
+              <path
+                id="node_outline99"
+                fill="none"
+                stroke="none"
+                d="M430.5,358.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text99" fill="black">
+                <text
+                  id="kity_text_893"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="359.7000000476837"
+                  x="430.5"
+                >机器拍照</text>
+              </g>
+            </g>
+            <g id="minder_node101" opacity="1">
+              <g id="node_expander99" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_943"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,81.5A6,6,0,1,1,437.5,81.5A6,6,0,1,1,449.5,81.5"
+                ></path>
+                <path id="kity_path_944" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline100"
+                fill="none"
+                stroke="none"
+                d="M454.5,72.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text100" fill="black">
+                <text
+                  id="kity_text_895"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="73.70000004768372"
+                  x="454.5"
+                >平台总成价格</text>
+              </g>
+            </g>
+            <g id="minder_node102" opacity="1">
+              <g id="node_expander100" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_946"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,107.5A6,6,0,1,1,437.5,107.5A6,6,0,1,1,449.5,107.5"
+                ></path>
+                <path id="kity_path_947" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline101"
+                fill="none"
+                stroke="none"
+                d="M454.5,98.5h60a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-60a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text101" fill="black">
+                <text
+                  id="kity_text_897"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="99.70000004768372"
+                  x="454.5"
+                >处理器型号</text>
+              </g>
+            </g>
+            <g id="minder_node103" opacity="1">
+              <g id="node_expander101" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_949"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,133.5A6,6,0,1,1,437.5,133.5A6,6,0,1,1,449.5,133.5"
+                ></path>
+                <path id="kity_path_950" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline102"
+                fill="none"
+                stroke="none"
+                d="M454.5,124.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text102" fill="black">
+                <text
+                  id="kity_text_899"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="125.70000004768372"
+                  x="454.5"
+                >内存容量</text>
+              </g>
+            </g>
+            <g id="minder_node104" opacity="1">
+              <g id="node_expander102" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_952"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,159.5A6,6,0,1,1,437.5,159.5A6,6,0,1,1,449.5,159.5"
+                ></path>
+                <path id="kity_path_953" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline103"
+                fill="none"
+                stroke="none"
+                d="M454.5,150.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text103" fill="black">
+                <text
+                  id="kity_text_901"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="151.70000004768372"
+                  x="454.5"
+                >硬盘容量</text>
+              </g>
+            </g>
+            <g id="minder_node110" opacity="1">
+              <g id="node_expander108" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_970"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,185.5A6,6,0,1,1,437.5,185.5A6,6,0,1,1,449.5,185.5"
+                ></path>
+                <path id="kity_path_971" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline109"
+                fill="none"
+                stroke="none"
+                d="M454.5,176.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text109" fill="black">
+                <text
+                  id="kity_text_913"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="177.70000004768372"
+                  x="454.5"
+                >显卡类型</text>
+              </g>
+            </g>
+            <g id="minder_node106" opacity="1">
+              <g id="node_expander104" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_958"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,341.5A6,6,0,1,1,437.5,341.5A6,6,0,1,1,449.5,341.5"
+                ></path>
+                <path id="kity_path_959" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline105"
+                fill="none"
+                stroke="none"
+                d="M454.5,332.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text105" fill="black">
+                <text
+                  id="kity_text_905"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="333.7000000476837"
+                  x="454.5"
+                >开机运行</text>
+              </g>
+            </g>
+            <g id="minder_node107" opacity="1">
+              <g id="node_expander105" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_961"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,237.5A6,6,0,1,1,437.5,237.5A6,6,0,1,1,449.5,237.5"
+                ></path>
+                <path id="kity_path_962" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline106"
+                fill="none"
+                stroke="none"
+                d="M454.5,228.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text106" fill="black">
+                <text
+                  id="kity_text_907"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="229.70000004768372"
+                  x="454.5"
+                >边框背板</text>
+              </g>
+            </g>
+            <g id="minder_node108" opacity="1">
+              <g id="node_expander106" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_964"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,263.5A6,6,0,1,1,437.5,263.5A6,6,0,1,1,449.5,263.5"
+                ></path>
+                <path id="kity_path_965" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline107"
+                fill="none"
+                stroke="none"
+                d="M454.5,254.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text107" fill="black">
+                <text
+                  id="kity_text_909"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="255.70000004768372"
+                  x="454.5"
+                >屏幕外观</text>
+              </g>
+            </g>
+            <g id="minder_node109" opacity="1">
+              <g id="node_expander107" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_967"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,289.5A6,6,0,1,1,437.5,289.5A6,6,0,1,1,449.5,289.5"
+                ></path>
+                <path id="kity_path_968" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline108"
+                fill="none"
+                stroke="none"
+                d="M454.5,280.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text108" fill="black">
+                <text
+                  id="kity_text_911"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="281.7000000476837"
+                  x="454.5"
+                >屏幕显示</text>
+              </g>
+            </g>
+            <g id="minder_node111" opacity="1">
+              <g id="node_expander109" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_973"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,211.5A6,6,0,1,1,437.5,211.5A6,6,0,1,1,449.5,211.5"
+                ></path>
+                <path id="kity_path_974" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline110"
+                fill="none"
+                stroke="none"
+                d="M454.5,202.5h238a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-238a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text110" fill="black">
+                <text
+                  id="kity_text_915"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="203.70000004768372"
+                  x="454.5"
+                >质检后核对客户单项信息/备注质检信息详情/</text>
+              </g>
+            </g>
+            <g id="minder_node105" opacity="1">
+              <g id="node_expander103" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_955"
+                  fill="white"
+                  stroke="gray"
+                  d="M449.5,315.5A6,6,0,1,1,437.5,315.5A6,6,0,1,1,449.5,315.5"
+                ></path>
+                <path id="kity_path_956" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline104"
+                fill="none"
+                stroke="none"
+                d="M454.5,306.5h36a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-36a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text104" fill="black">
+                <text
+                  id="kity_text_903"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="307.7000000476837"
+                  x="454.5"
+                >多选项</text>
+              </g>
+            </g>
+            <g id="minder_node112">
+              <g id="node_expander111" style="cursor: pointer;">
+                <path
+                  id="kity_path_1012"
+                  fill="white"
+                  stroke="gray"
+                  d="M327.5,211.5A6,6,0,1,1,315.5,211.5A6,6,0,1,1,327.5,211.5"
+                ></path>
+                <path id="kity_path_1013" fill="none" stroke="gray" d="M317,211.5L326,211.5"></path>
+              </g>
+              <path
+                id="node_outline112"
+                fill="none"
+                stroke="none"
+                d="M332.5,202.5h96a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-96a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text112" fill="black">
+                <text
+                  id="kity_text_1009"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="203.70000004768372"
+                  x="332.5"
+                >展示客户提交数据</text>
+              </g>
+            </g>
+            <g id="minder_node113">
+              <g id="node_expander112" style="cursor: pointer;">
+                <path
+                  id="kity_path_1020"
+                  fill="white"
+                  stroke="gray"
+                  d="M327.5,510.5A6,6,0,1,1,315.5,510.5A6,6,0,1,1,327.5,510.5"
+                ></path>
+                <path id="kity_path_1021" fill="none" stroke="gray" d="M317,510.5L326,510.5"></path>
+              </g>
+              <path
+                id="node_outline113"
+                fill="none"
+                stroke="none"
+                d="M332.5,501.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text113" fill="black">
+                <text
+                  id="kity_text_1017"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="502.7000000476837"
+                  x="332.5"
+                >平台质检数据</text>
+              </g>
+            </g>
+            <g id="kity_g_12" display="none">
+              <path
+                id="kity_path_13"
+                fill="none"
+                stroke="rgb(66, 94, 112)"
+                d="M269.5,527.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="5"
+              ></path>
+            </g>
+            <g id="minder_node100">
+              <g id="node_expander97" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_937"
+                  fill="white"
+                  stroke="gray"
+                  d="M499.5,367.5A6,6,0,1,1,487.5,367.5A6,6,0,1,1,499.5,367.5"
+                ></path>
+                <path id="kity_path_938" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline98"
+                fill="none"
+                stroke="none"
+                d="M504.5,358.5h171a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-171a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text98" fill="black">
+                <text
+                  id="kity_text_891"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="359.7000000476837"
+                  x="504.5"
+                >正面/侧面*4/底部/损伤部位特写</text>
+              </g>
+            </g>
+            <g id="minder_node114">
+              <g id="node_expander123" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1109"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,393.5A6,6,0,1,1,413.5,393.5A6,6,0,1,1,425.5,393.5"
+                ></path>
+                <path id="kity_path_1110" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline124"
+                fill="none"
+                stroke="none"
+                d="M430.5,384.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text124" fill="black">
+                <text
+                  id="kity_text_1106"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="385.7000000476837"
+                  x="430.5"
+                >平台总成价格</text>
+              </g>
+            </g>
+            <g id="minder_node115">
+              <g id="node_expander122" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1103"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,419.5A6,6,0,1,1,413.5,419.5A6,6,0,1,1,425.5,419.5"
+                ></path>
+                <path id="kity_path_1104" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline123"
+                fill="none"
+                stroke="none"
+                d="M430.5,410.5h60a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-60a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text123" fill="black">
+                <text
+                  id="kity_text_1100"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="411.7000000476837"
+                  x="430.5"
+                >处理器型号</text>
+              </g>
+            </g>
+            <g id="minder_node116">
+              <g id="node_expander121" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1097"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,445.5A6,6,0,1,1,413.5,445.5A6,6,0,1,1,425.5,445.5"
+                ></path>
+                <path id="kity_path_1098" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline122"
+                fill="none"
+                stroke="none"
+                d="M430.5,436.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text122" fill="black">
+                <text
+                  id="kity_text_1094"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="437.7000000476837"
+                  x="430.5"
+                >内存容量</text>
+              </g>
+            </g>
+            <g id="minder_node117">
+              <g id="node_expander120" style="cursor: pointer;">
+                <path
+                  id="kity_path_1091"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,471.5A6,6,0,1,1,413.5,471.5A6,6,0,1,1,425.5,471.5"
+                ></path>
+                <path id="kity_path_1092" fill="none" stroke="gray" d="M415,471.5L424,471.5"></path>
+              </g>
+              <path
+                id="node_outline121"
+                fill="none"
+                stroke="none"
+                d="M430.5,462.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text121" fill="black">
+                <text
+                  id="kity_text_1088"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="463.7000000476837"
+                  x="430.5"
+                >硬盘容量</text>
+              </g>
+            </g>
+            <g id="minder_node118">
+              <g id="node_expander119" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1085"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,497.5A6,6,0,1,1,413.5,497.5A6,6,0,1,1,425.5,497.5"
+                ></path>
+                <path id="kity_path_1086" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline120"
+                fill="none"
+                stroke="none"
+                d="M430.5,488.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text120" fill="black">
+                <text
+                  id="kity_text_1082"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="489.7000000476837"
+                  x="430.5"
+                >显卡类型</text>
+              </g>
+            </g>
+            <g id="minder_node119">
+              <g id="node_expander118" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1079"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,523.5A6,6,0,1,1,413.5,523.5A6,6,0,1,1,425.5,523.5"
+                ></path>
+                <path id="kity_path_1080" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline119"
+                fill="none"
+                stroke="none"
+                d="M430.5,514.5h36a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-36a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text119" fill="black">
+                <text
+                  id="kity_text_1076"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="515.7000000476837"
+                  x="430.5"
+                >多选项</text>
+              </g>
+            </g>
+            <g id="minder_node120">
+              <g id="node_expander117" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1073"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,549.5A6,6,0,1,1,413.5,549.5A6,6,0,1,1,425.5,549.5"
+                ></path>
+                <path id="kity_path_1074" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline118"
+                fill="none"
+                stroke="none"
+                d="M430.5,540.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text118" fill="black">
+                <text
+                  id="kity_text_1070"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="541.7000000476837"
+                  x="430.5"
+                >边框背板</text>
+              </g>
+            </g>
+            <g id="minder_node121">
+              <g id="node_expander116" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1067"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,575.5A6,6,0,1,1,413.5,575.5A6,6,0,1,1,425.5,575.5"
+                ></path>
+                <path id="kity_path_1068" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline117"
+                fill="none"
+                stroke="none"
+                d="M430.5,566.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text117" fill="black">
+                <text
+                  id="kity_text_1064"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="567.7000000476837"
+                  x="430.5"
+                >屏幕外观</text>
+              </g>
+            </g>
+            <g id="minder_node122">
+              <g id="node_expander115" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1061"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,601.5A6,6,0,1,1,413.5,601.5A6,6,0,1,1,425.5,601.5"
+                ></path>
+                <path id="kity_path_1062" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline116"
+                fill="none"
+                stroke="none"
+                d="M430.5,592.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text116" fill="black">
+                <text
+                  id="kity_text_1058"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="593.7000000476837"
+                  x="430.5"
+                >屏幕显示</text>
+              </g>
+            </g>
+            <g id="minder_node123">
+              <g id="node_expander114" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1055"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,627.5A6,6,0,1,1,413.5,627.5A6,6,0,1,1,425.5,627.5"
+                ></path>
+                <path id="kity_path_1056" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline115"
+                fill="none"
+                stroke="none"
+                d="M430.5,618.5h48a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text115" fill="black">
+                <text
+                  id="kity_text_1052"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="619.7000000476837"
+                  x="430.5"
+                >开机运行</text>
+              </g>
+            </g>
+            <g id="minder_node124">
+              <g id="node_expander113" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1049"
+                  fill="white"
+                  stroke="gray"
+                  d="M425.5,653.5A6,6,0,1,1,413.5,653.5A6,6,0,1,1,425.5,653.5"
+                ></path>
+                <path id="kity_path_1050" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline114"
+                fill="none"
+                stroke="none"
+                d="M430.5,644.5h238a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-238a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text114" fill="black">
+                <text
+                  id="kity_text_1046"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="645.7000000476837"
+                  x="430.5"
+                >质检后核对客户单项信息/备注质检信息详情/</text>
+              </g>
+            </g>
+            <g id="minder_node125">
+              <g id="node_expander124" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1117"
+                  fill="white"
+                  stroke="gray"
+                  d="M499.5,471.5A6,6,0,1,1,487.5,471.5A6,6,0,1,1,499.5,471.5"
+                ></path>
+                <path id="kity_path_1118" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline125"
+                fill="none"
+                stroke="none"
+                d="M504.5,462.5h426a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-426a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text125" fill="black">
+                <text
+                  id="kity_text_1114"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="463.7000000476837"
+                  x="504.5"
+                >可能跟客户提交的有所不同,例如我们会针对硬盘等进行专业的测试工作,进行备注</text>
+              </g>
+            </g>
+            <g id="minder_node127">
+              <g id="node_expander126" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1133"
+                  fill="white"
+                  stroke="gray"
+                  d="M327.5,705.5A6,6,0,1,1,315.5,705.5A6,6,0,1,1,327.5,705.5"
+                ></path>
+                <path id="kity_path_1134" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline127"
+                fill="none"
+                stroke="none"
+                d="M332.5,696.5h256a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-256a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text127" fill="black">
+                <text
+                  id="kity_text_1130"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="697.7000000476837"
+                  x="332.5"
+                >左侧展示客户提交数据/右侧展示本平台质检数据</text>
+              </g>
+            </g>
+            <g id="minder_node128">
+              <g id="node_expander128" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1149"
+                  fill="white"
+                  stroke="gray"
+                  d="M327.5,29.5A6,6,0,1,1,315.5,29.5A6,6,0,1,1,327.5,29.5"
+                ></path>
+                <path id="kity_path_1150" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline129"
+                fill="none"
+                stroke="none"
+                d="M332.5,20.5h109a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-109a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text129" fill="black">
+                <text
+                  id="kity_text_1146"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="21.700000047683716"
+                  x="332.5"
+                >收货24小时检测机器</text>
+              </g>
+            </g>
+            <g id="minder_node129">
+              <g id="node_expander127" style="cursor: pointer;" display="none">
+                <path
+                  id="kity_path_1143"
+                  fill="white"
+                  stroke="gray"
+                  d="M327.5,55.5A6,6,0,1,1,315.5,55.5A6,6,0,1,1,327.5,55.5"
+                ></path>
+                <path id="kity_path_1144" fill="none" stroke="gray"></path>
+              </g>
+              <path
+                id="node_outline128"
+                fill="none"
+                stroke="none"
+                d="M332.5,46.5h72a5,5,0,0,1,5,5v8a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-8a5,5,0,0,1,5,-5z"
+                stroke-width="3"
+              ></path>
+              <g id="node_text128" fill="black">
+                <text
+                  id="kity_text_1140"
+                  text-rendering="inherit"
+                  font-size="12"
+                  dy=".8em"
+                  y="47.700000047683716"
+                  x="332.5"
+                >视频监控检测</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
     </p>
   </div>
 </template>
